@@ -1,4 +1,4 @@
-import pyautogui, time, keyboard, cv2
+import pyautogui, time, keyboard
 time.sleep(5)
 yeet = open("beemovie.txt", "r")
 for uh in yeet:
